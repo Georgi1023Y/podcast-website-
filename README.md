@@ -1,12 +1,25 @@
-# React + Vite
+# Podcast Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple podcast website built with **React**, **Tailwind CSS**, **Daisy UI**, and **Supabase**. It's designed to be lightweight, fast, and easy to use for both creators and listeners.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Listen to podcast episodes
+- Simple, clean, and responsive design
+- User login and registration (using Supabase)
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** for building the website
+- **Tailwind CSS** for styling
+- **Daisy UI** for pre-made UI components
+- **Supabase** for authentication and database
+
+## Setup Instructions
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/podcast-website.git
+   cd podcast-website
+   ```
