@@ -6,14 +6,14 @@ const Footer = () => {
 
   const socialLinks = [
     {
-      icon: 'mdi:instagram',
-      url: 'https://www.instagram.com/bbojidarssirakov/',
-      label: 'Instagram',
+      icon: "mdi:instagram",
+      url: "https://www.instagram.com/bbojidarssirakov/",
+      label: "Instagram",
     },
     {
-      icon: 'mdi:youtube',
-      url: 'https://www.youtube.com/@bbojidarssirakov',
-      label: 'YouTube',
+      icon: "mdi:youtube",
+      url: "https://www.youtube.com/@bstopcastbulgaria",
+      label: "YouTube",
     },
   ];
 
